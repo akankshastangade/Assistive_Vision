@@ -19,7 +19,10 @@ Let's see the architecture first- The overall system comprises of front-end. The
 ![12](https://user-images.githubusercontent.com/72142324/179363505-a7d4e7e9-9922-42f3-94c8-a6b97e900ca4.jpg)
 
 Final architecture of our proposed product is to recognize object which is there in front of a person i.e. in front of camera which is shown in the following table-
+
 ![13](https://user-images.githubusercontent.com/72142324/179363532-0ce0b16b-8891-4310-9674-b10b813067b6.png)
+
+
 
 Steps for implementation-
 
